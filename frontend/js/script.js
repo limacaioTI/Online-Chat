@@ -131,7 +131,7 @@ const handleLogin = (event) => {
     login.style.display = "none";
     chat.style.display = "flex";
 
-    websocket = new WebSocket("ws://localhost:8080");
+    websocket = new WebSocket("wss://chat-backend-ysgf.onrender.com");
     websocket.onopen = () => {
         console.log("Conectado ao servidor WebSocket");
         sendJoinMessage(); // Enviar a mensagem de "entrou na conversa" quando a pessoa entrar
