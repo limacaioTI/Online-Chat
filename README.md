@@ -33,7 +33,7 @@ bash
 Copiar
 Editar
 git clone https://github.com/limacaioTI/Online-Chat.git
-cd seu-repositorio
+cd Online-Chat
 
 2️⃣ Instalar Dependências
 bash
