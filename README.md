@@ -32,7 +32,7 @@ Editar
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/limacaioTI/Online-Chat.git
 cd seu-repositorio
 
 2️⃣ Instalar Dependências
